@@ -1,0 +1,10 @@
+#name{
+    background-color: black;
+    color: white;
+}
+.newdiv{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
